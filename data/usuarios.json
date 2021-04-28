@@ -1,0 +1,18 @@
+[
+    {
+        "idUsuario": 1,
+        "nombreUsuario": "Daniel",
+        "correo": "Daniel@gmail.com",
+        "password": "YHW26",
+        "tipoUsuario": "Free",
+        "limiteArchivos":5
+    },
+    {
+        "idUsuario": 2,
+        "nombreUsuario": "Abraham",
+        "correo": "Abraham@gmail.com",
+        "password": "YESHU386",
+        "tipoUsuario": "Premium",
+        "limiteArchivos": 0
+    }
+]

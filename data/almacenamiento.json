@@ -1,0 +1,116 @@
+[
+    {
+        "idUsuario": 1,
+        "cantidadArchivos": 3,
+        "carpetas":
+        [
+            {
+                "idCarpeta": 0,
+                "nombreCarpeta": "Mi Unidad",
+                "fecha": "0/0/0",
+                "carpetas":[1],
+                "Archivos": [0]
+            },
+            {
+                "idCarpeta": 1,
+                "nombreCarpeta": "POO",
+                "fecha": "0/0/0",
+                "carpetas":[2],
+                "Archivos": [1, 2]
+            },
+            {
+                "idCarpeta": 2,
+                "nombreCarpeta": "Tareas",
+                "fecha": "0/0/0",
+                "carpetas":[],
+                "Archivos": [3]
+            }
+        ],
+        "archivos":
+        [
+            {
+                "idArchivo": 0,
+                "nombreArchivo": "Bienvenida",
+                "size": "26 mb",
+                "fecha": "0/0/0",
+                "tipoArchivo": "TXT",
+                "url": ""
+            },
+            {
+                "idArchivo": 1,
+                "nombreArchivo": "Clase Final",
+                "size": "26 mb",
+                "fecha": "0/0/0",
+                "tipoArchivo": "Video",
+                "url": ""
+            },
+            {
+                "idArchivo": 2,
+                "nombreArchivo": "Foto Final",
+                "size": "26 mb",
+                "fecha": "0/0/0",
+                "tipoArchivo": "Foto",
+                "url": ""
+            },
+            {
+                "idArchivo": 3,
+                "nombreArchivo": "Informe",
+                "size": "26 mb",
+                "fecha": "0/0/0",
+                "tipoArchivo": "Documento Writer",
+                "url": ""
+            }
+        ],
+        "destacados":[2],
+        "papelera":[]
+    },
+    {
+        "idUsuario": 2,
+        "cantidadArchivos": 2,
+        "carpetas":
+        [
+            {
+                "idCarpeta": 0,
+                "nombreCarpeta": "Mi unidad",
+                "fecha": "0/0/0",
+                "carpetas":[1, 2],
+                "Archivos": []
+            },
+            {
+                "idCarpeta": 1,
+                "nombreCarpeta": "Memorias",
+                "fecha": "0/0/0",
+                "carpetas":[],
+                "Archivos": [2]
+            },
+            {
+                "idCarpeta": 2,
+                "nombreCarpeta": "Libros",
+                "fecha": "0/0/0",
+                "carpetas":[],
+                "Archivos": [1]
+            }
+        ],
+        "archivos":
+        [
+            {
+                "idArchivo": 1,
+                "nombreArchivo": "Libro 2",
+                "size": "26 mb",
+                "fecha": "0/0/0",
+                "tipoArchivo": "Documento PDF",
+                "url": ""
+            },
+            {
+                "idArchivo": 2,
+                "nombreArchivo": "Sello",
+                "size": "26 mb",
+                "fecha": "0/0/0",
+                "tipoArchivo": "Foto",
+                "url": ""
+            }
+        ],
+        "destacados":[1, 2],
+        "papelera":[]
+    }
+]

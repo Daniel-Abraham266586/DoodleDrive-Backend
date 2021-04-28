@@ -1,0 +1,204 @@
+*
+{
+    padding: 0%;
+    margin:  0%;
+    box-sizing: border-box;
+}
+
+h1
+{
+    font-size: 3.2rem;
+}
+
+h2
+{
+    font-size: 2.5rem;
+}
+
+.azul-google
+{
+    color: #0079FA;
+}
+
+.lbl-texto-negro
+{
+    color: #000000;
+}
+
+.lbl-texto-gris
+{
+    color: #5F6368 !important;
+    font-size: 1.2rem;
+
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.lbl-texto-bold
+{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.landing-boxes
+{
+    margin: 4rem;
+}
+
+.btn-Blanco
+{
+    border-color: #CCCCCC;
+}
+
+.btn-Blanco:hover
+{
+    border-color: #1A73E9;
+    color: #0000FF;
+}
+
+.btn-transparente
+{
+    background-color: #FFFFFF !important;
+}
+
+.btn-transparente:hover
+{
+    color: #1A73E9;
+}
+
+.cuadro_1
+{
+    border-radius: 0.5rem;
+    border-color: #CCCCCC;
+    border-width: 2px;
+    border-style: solid;
+    padding: 2rem;
+}
+
+.cuadro_2
+{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.cuadro_2 p
+{
+    font-size: 1.2rem;
+}
+
+.centrado-vertical
+{
+    vertical-align: center;
+    text-align: center;
+}
+
+#pnl-login
+{
+    margin-top: 6%;
+    margin-left: 33%;
+    margin-right: 33%;
+    padding: 3%;
+    padding-bottom: 5%;
+    
+    border-radius: 0.7rem;
+    border-style: solid;
+    border-color: #CCCCCC;
+    border-width: 1px;
+}
+
+#fttr-login
+{
+    margin-left: 33%;
+    margin-right: 31%;
+    padding-top: 1.5%;
+    padding-bottom: 4%;
+    float: right;
+}
+
+.lst-footer li
+{
+    display: inline;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#landing-footer
+{
+    background-color: #F8F9FA;
+}
+
+.texto-links-azul
+{
+    color: #1A73E9
+}
+
+.texto-links-azul:hover
+{
+    background-color: #E8F0FE;
+}
+
+
+.navbar
+{
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #CCCCCC;
+
+    background-color: #FFFFFF !important;
+}
+
+.btn-invisible-redondo
+{
+    border-radius: 50%;
+}
+
+.btn-invisible-redondo:hover
+{
+    background-color: #CCCCCC;
+}
+
+
+.texto-Gris
+{
+    color:rgb(100, 100, 100) !important;
+}
+
+.texto-Azul-medium
+{
+    color: #508EF5;
+}
+
+#btn-nuevo
+{
+    border-radius: 2rem;
+}
+
+.btn-blanco-bordeAzul
+{
+    border-radius: 0.5rem;
+    border-style: solid;
+    border-color: #BBBBBB;
+    border-width: 1px;
+}
+
+.icon
+{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+#slctLogin-Usuario
+{
+    width: 80%;
+    border-radius: 2rem;
+}
+
+.pointerOver
+{
+    cursor: pointer;
+}
